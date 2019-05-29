@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NorbertKa</title>
+    <link>https://nkyian.github.io/</link>
+    <description>Recent content on NorbertKa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2019 16:20:48 +0300</lastBuildDate>
+    
+	<atom:link href="https://nkyian.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://nkyian.github.io/about/</link>
+      <pubDate>Tue, 28 May 2019 16:20:48 +0300</pubDate>
+      
+      <guid>https://nkyian.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitch chat Client (part 1)</title>
+      <link>https://nkyian.github.io/posts/simple-irc-v3-client/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nkyian.github.io/posts/simple-irc-v3-client/</guid>
+      <description>Introduction In this 3 part tutorial series we&amp;rsquo;re going to explore TCP Connection handling; IRCv3 message parsing and connection handling for Twitch.tv Chat. Here in first part of the tutorial we&amp;rsquo;re going to implement IRC protocol Client for our Twitch.tv Chat Client.
+Research First of all, we should start with research:
+ How to connect to IRC server How to send IRC messages. Is Twitch.tv chat fully IRC capable? Are there any special Twitch.</description>
+    </item>
+    
+  </channel>
+</rss>
